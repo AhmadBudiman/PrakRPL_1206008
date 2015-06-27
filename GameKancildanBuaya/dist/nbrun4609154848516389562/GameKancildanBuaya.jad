@@ -1,0 +1,9 @@
+MIDlet-1: KancildanBuaya, , KancildanBuaya
+MIDlet-2: Play, , Play
+MIDlet-Jar-Size: 680442
+MIDlet-Jar-URL: GameKancildanBuaya.jar
+MIDlet-Name: GameKancildanBuaya
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
